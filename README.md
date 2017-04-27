@@ -1,6 +1,6 @@
 # npmtest-casperjs
 
-#### test coverage for  [casperjs (v1.1.3)](http://casperjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-casperjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-casperjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-casperjs.svg)](https://travis-ci.org/npmtest/node-npmtest-casperjs)
+#### basic test coverage for  [casperjs (v1.1.3)](http://casperjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-casperjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-casperjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-casperjs.svg)](https://travis-ci.org/npmtest/node-npmtest-casperjs)
 
 #### A navigation scripting & testing utility for PhantomJS and SlimerJS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-casperjs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-casperjs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-casperjs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-casperjs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-casperjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-casperjs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-casperjs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-casperjs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-casperjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-casperjs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-casperjs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-casperjs/build/coverage.html/index.html)
 
